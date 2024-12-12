@@ -1,2 +1,1 @@
-India is my country..
-
+Selenium is an automation tool.
