@@ -1,1 +1,1 @@
-Hello from file1 fdvfdvfdvf dfvffvf fvfvf fvfvfvvf cdsvfdvfvfd vdfvfdv 
+Testing are of 2 types: Manual and Automation Testing
